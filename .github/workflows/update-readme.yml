@@ -23,15 +23,12 @@ jobs:
           curl -s https://api.github.com/users/ppossatto/repos > repos.json
           node .github/scripts/script.js
           
-      - name: Commit files
+      - name: Commit and push changes
         run: |
-          git config --local user.email "${{ secrets.PPOSSATTO_EMAIL }}"
-          git config --local user.name "ppossatto"
+          git config --global user.email "${{ secrets.PPOSSATTO_EMAIL }}"
+          git config --global user.name "ppossatto"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Cron job for updating README"
-          
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PAT_TOKEN }}
-          branch: ${{ github.ref }}
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
