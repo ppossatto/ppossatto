@@ -25,7 +25,7 @@ jobs:
           
       - name: Commit files
         run: |
-          git config --local user.email ${{ secrets.PPOSSATTO_EMAIL }}
+          git config --local user.email "${{ secrets.PPOSSATTO_EMAIL }}"
           git config --local user.name "ppossatto"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Cron job for updating README"
