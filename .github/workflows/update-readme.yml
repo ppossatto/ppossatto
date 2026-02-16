@@ -12,11 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
       
-      - name: Setup Git credentials
+      - name: Setup Git
         run: |
-          echo "${{ secrets.GIT_CREDENTIALS }}" > ~/.git-credentials
-          git config --global credential.helper store
           git config --global user.name "ppossatto"
           git config --global user.email "${{ secrets.PPOSSATTO_EMAIL }}"
           
