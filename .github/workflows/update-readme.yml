@@ -12,12 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: Setup Git
+      
+      - name: Setup Git credentials
         run: |
-          git config --global user.email "${{ secrets.PPOSSATTO_EMAIL }}"
+          echo "${{ secrets.GIT_CREDENTIALS }}" > ~/.git-credentials
+          git config --global credential.helper store
           git config --global user.name "ppossatto"
-          git remote set-url origin https://ppossatto:${{ secrets.PAT_TOKEN }}@github.com/ppossatto/ppossatto.git
+          git config --global user.email "${{ secrets.PPOSSATTO_EMAIL }}"
           
       - name: Setup Node.js
         uses: actions/setup-node@v2
