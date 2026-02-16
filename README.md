@@ -30,6 +30,32 @@ Welcome to my GitHub profile page.
 Although there's not much, I work in my projects whenever there is time available.
 
 <!-- PROJECTS:START -->
+<table style="border-collapse: collapse;width: 100%;">
+    <thead align="center">
+        <tr>
+            <td><b>Project</b></td>
+            <td><b>URL</b></td>
+            <td><b>Description</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>layered-archetype</td>
+            <td><a href="https://github.com/ppossatto/layered-archetype">https://github.com/ppossatto/layered-archetype</a></td>
+            <td>Maven archetype for Spring Boot projects using layered architecture and pre-defined dependencies, profiles and plugins</td>
+        </tr>
+        <tr>
+            <td>ppossatto</td>
+            <td><a href="https://github.com/ppossatto/ppossatto">https://github.com/ppossatto/ppossatto</a></td>
+            <td>Config files for my GitHub profile.</td>
+        </tr>
+        <tr>
+            <td>vericall</td>
+            <td><a href="https://github.com/ppossatto/vericall">https://github.com/ppossatto/vericall</a></td>
+            <td>A web tool for verifying random phone numbers to make sure none of them is a scam</td>
+        </tr>
+    </tbody>
+</table>
 <!-- PROJECTS:END -->
 
 More are yet to come...
