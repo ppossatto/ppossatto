@@ -50,9 +50,9 @@ Although there's not much, I work in my projects whenever there is time availabl
             <td>Config files for my GitHub profile.</td>
         </tr>
         <tr>
-            <td>vericall</td>
-            <td><a href="https://github.com/ppossatto/vericall">https://github.com/ppossatto/vericall</a></td>
-            <td>A web tool for verifying random phone numbers to make sure none of them is a scam</td>
+            <td>renewatch</td>
+            <td><a href="https://github.com/ppossatto/renewatch">https://github.com/ppossatto/renewatch</a></td>
+            <td>A web tool created with Quarkus to calculate estimates of photovoltaic and/or wind power generation based on geographic and meteorological data</td>
         </tr>
     </tbody>
 </table>
