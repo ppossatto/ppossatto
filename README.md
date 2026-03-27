@@ -45,14 +45,14 @@ Although there's not much, I work in my projects whenever there is time availabl
             <td>Maven archetype for Spring Boot projects using layered architecture and pre-defined dependencies, profiles and plugins</td>
         </tr>
         <tr>
+            <td>portfolio</td>
+            <td><a href="https://github.com/ppossatto/portfolio">https://github.com/ppossatto/portfolio</a></td>
+            <td>My portfolio's repository built with HTML, CSS, JS and Bootstrap</td>
+        </tr>
+        <tr>
             <td>ppossatto</td>
             <td><a href="https://github.com/ppossatto/ppossatto">https://github.com/ppossatto/ppossatto</a></td>
             <td>Config files for my GitHub profile.</td>
-        </tr>
-        <tr>
-            <td>renewatch</td>
-            <td><a href="https://github.com/ppossatto/renewatch">https://github.com/ppossatto/renewatch</a></td>
-            <td>A web tool created with Quarkus to calculate estimates of photovoltaic and/or wind power generation based on geographic and meteorological data</td>
         </tr>
     </tbody>
 </table>
