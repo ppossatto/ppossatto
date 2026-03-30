@@ -71,3 +71,6 @@ Feel free to contact me with the hyperlinks below:
 
 [![LinkedIn](https://skills.syvixor.com/api/icons?perline=15&i=linkedin)](https://www.linkedin.com/in/paulopossatto/)
 [![GitHub](https://skills.syvixor.com/api/icons?perline=15&i=github)](https://github.com/ppossatto)
+<a href="mailto:ppossatto@protonmail.com?subject=GitHub%20visualization">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=protonmail">
+</a>
