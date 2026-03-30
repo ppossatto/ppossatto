@@ -45,6 +45,11 @@ Although there's not much, I work in my projects whenever there is time availabl
             <td>Maven archetype for Spring Boot projects using layered architecture and pre-defined dependencies, profiles and plugins</td>
         </tr>
         <tr>
+            <td>library-manager</td>
+            <td><a href="https://github.com/ppossatto/library-manager">https://github.com/ppossatto/library-manager</a></td>
+            <td>A simple back-end library management tool made as simple as possible with Java 21, Spring Boot 4.0.1 and Maven with H2 database</td>
+        </tr>
+        <tr>
             <td>portfolio</td>
             <td><a href="https://github.com/ppossatto/portfolio">https://github.com/ppossatto/portfolio</a></td>
             <td>My portfolio's repository built with HTML, CSS, JS and Bootstrap</td>
