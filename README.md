@@ -47,7 +47,7 @@ Although there's not much, I work in my projects whenever there is time availabl
         <tr>
             <td>library-manager</td>
             <td><a href="https://github.com/ppossatto/library-manager">https://github.com/ppossatto/library-manager</a></td>
-            <td>A (very) simple back-end library management tool made as simple as possible with Java 21, Spring Boot 4.0.1 and Maven with H2 database</td>
+            <td>A (very) simple back-end library management tool made as simple as possible with Java 21, Spring Boot 4.0.3 and Maven with H2 database</td>
         </tr>
         <tr>
             <td>portfolio</td>
