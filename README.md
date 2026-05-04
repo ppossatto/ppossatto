@@ -40,6 +40,11 @@ Although there's not much, I work in my projects whenever there is time availabl
     </thead>
     <tbody>
         <tr>
+            <td>chromamon</td>
+            <td><a href="https://github.com/ppossatto/chromamon">https://github.com/ppossatto/chromamon</a></td>
+            <td>A tool to manage, analyze, report and check substation transformers condition based on the chromatographic analysis of the isolating oil, with geospatial data, email alarms, security and object storage services integration.</td>
+        </tr>
+        <tr>
             <td>layered-archetype</td>
             <td><a href="https://github.com/ppossatto/layered-archetype">https://github.com/ppossatto/layered-archetype</a></td>
             <td>Maven archetype for Spring Boot projects using layered architecture and pre-defined dependencies, profiles and plugins</td>
