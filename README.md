@@ -30,42 +30,7 @@ Welcome to my GitHub profile page.
 Although there's not much, I work in my projects whenever there is time available.
 
 <!-- PROJECTS:START -->
-<table style="border-collapse: collapse;width: 100%;">
-    <thead align="center">
-        <tr>
-            <td><b>Project</b></td>
-            <td><b>URL</b></td>
-            <td><b>Description</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>chromamon</td>
-            <td><a href="https://github.com/ppossatto/chromamon">https://github.com/ppossatto/chromamon</a></td>
-            <td>A tool to manage, analyze, report and check substation transformers condition based on the chromatographic analysis of the isolating oil, with geospatial data, email alarms, security and object storage services integration.</td>
-        </tr>
-        <tr>
-            <td>layered-archetype</td>
-            <td><a href="https://github.com/ppossatto/layered-archetype">https://github.com/ppossatto/layered-archetype</a></td>
-            <td>Maven archetype for Spring Boot projects using layered architecture and pre-defined dependencies, profiles and plugins</td>
-        </tr>
-        <tr>
-            <td>library-manager</td>
-            <td><a href="https://github.com/ppossatto/library-manager">https://github.com/ppossatto/library-manager</a></td>
-            <td>A (very) simple back-end library management tool made as simple as possible with Java 21, Spring Boot 4.0.3 and Maven with H2 database</td>
-        </tr>
-        <tr>
-            <td>portfolio</td>
-            <td><a href="https://github.com/ppossatto/portfolio">https://github.com/ppossatto/portfolio</a></td>
-            <td>My portfolio's repository built with HTML, CSS, JS and Bootstrap</td>
-        </tr>
-        <tr>
-            <td>ppossatto</td>
-            <td><a href="https://github.com/ppossatto/ppossatto">https://github.com/ppossatto/ppossatto</a></td>
-            <td>Config files for my GitHub profile.</td>
-        </tr>
-    </tbody>
-</table>
+
 <!-- PROJECTS:END -->
 
 More are yet to come...
