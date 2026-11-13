@@ -50,6 +50,11 @@ Although there's not much, I work in my projects whenever there is time availabl
             <td>A (very) simple back-end library management tool made as simple as possible with Java 21, Spring Boot 4.0.3 and Maven with H2 database</td>
         </tr>
         <tr>
+            <td>monolith-spring-tensio</td>
+            <td><a href="https://github.com/ppossatto/monolith-spring-tensio">https://github.com/ppossatto/monolith-spring-tensio</a></td>
+            <td>Monolithic Spring 7 and Java 25 application for transformers and substations management</td>
+        </tr>
+        <tr>
             <td>portfolio</td>
             <td><a href="https://github.com/ppossatto/portfolio">https://github.com/ppossatto/portfolio</a></td>
             <td>My portfolio's repository built with HTML, CSS, JS and Bootstrap</td>
@@ -58,11 +63,6 @@ Although there's not much, I work in my projects whenever there is time availabl
             <td>ppossatto</td>
             <td><a href="https://github.com/ppossatto/ppossatto">https://github.com/ppossatto/ppossatto</a></td>
             <td>Config files for my GitHub profile.</td>
-        </tr>
-        <tr>
-            <td>tensio</td>
-            <td><a href="https://github.com/ppossatto/tensio">https://github.com/ppossatto/tensio</a></td>
-            <td>A microservices-based project focused on managing functions related to the maintenance, protection, distribution and conversion of energy for electricity regulatory bodies</td>
         </tr>
     </tbody>
 </table>
