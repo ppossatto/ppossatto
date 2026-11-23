@@ -55,6 +55,11 @@ Although there's not much, I work in my projects whenever there is time availabl
             <td>Monolithic Spring 7 and Java 25 application for transformers and substations management</td>
         </tr>
         <tr>
+            <td>ms-e-commerce</td>
+            <td><a href="https://github.com/ppossatto/ms-e-commerce">https://github.com/ppossatto/ms-e-commerce</a></td>
+            <td>A microservice monorepo e-commerce project using Java 25, Spring 7, Kafka, Object Storage and relational database.</td>
+        </tr>
+        <tr>
             <td>portfolio</td>
             <td><a href="https://github.com/ppossatto/portfolio">https://github.com/ppossatto/portfolio</a></td>
             <td>My portfolio's repository built with HTML, CSS, JS and Bootstrap</td>
